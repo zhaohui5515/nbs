@@ -1,0 +1,1 @@
+{"title":"NBS NFT","type":"object","properties":{"name":{"type":"string","description":"NBS NFT"},"description":{"type":"string","description":"NBS NFT info"}},"image":"https://raw.githubusercontent.com/zhaohui5515/nbs_image/main/48.jpg"}
